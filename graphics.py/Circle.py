@@ -42,7 +42,7 @@ def Circle(radius, x_center, y_center):
             x = x + 1
             y = y - 1
             p += (2 * x) - (2 * y) + 1
-        plot_points(x_center, y_center, x, y)   
+
 
 # Main loop 
 def main():
